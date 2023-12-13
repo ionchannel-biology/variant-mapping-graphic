@@ -4,3 +4,5 @@ Voltage-gated sodium ion channels allow for the initiation and transmission of a
 
 Example: 
 ![image](https://github.com/ionchannel-biology/variant-mapping-graphic/assets/153395438/67ea3678-d7a9-4137-b9c8-8c26482a900f)
+
+Preprint: https://www.biorxiv.org/content/10.1101/2023.12.09.570948v1
